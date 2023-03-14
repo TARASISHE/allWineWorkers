@@ -1,0 +1,46 @@
+{
+    "allWorkersData": [
+        {   
+            "id": 1, 
+            "name":"Maria Lee",
+            "img": "https://www.europeanceo.com/wp-content/uploads/2017/08/CEO-magic-touch.jpg",
+            "profession": "CEO",
+            "description":"Random text No one is born hating another person because of the color of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite."
+        },
+        {   
+            "id": 2, 
+            "name":"Jane Moncleear",
+            "img": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg",
+            "profession": "SMM expert",
+            "description":"Random text I've long believed that good food, good eating, is all about risk. Whether we're talking about unpasteurized Stilton, raw oysters or working for organized crime 'associates,' food, for me, has always been an adventure."
+        },
+        {   
+          "id": 3, 
+          "name":"Jonh Watts",
+          "img": "https://static01.nyt.com/newsgraphics/2020/11/12/fake-people/4b806cf591a8a76adfc88d19e90c8c634345bf3d/fallbacks/mobile-07.jpg",
+          "profession": "Sommelier",
+          "description":"Random text I became a chameleon. My color didn't change, but I could change your perception of my color. If you spoke Zulu, I replied to you in Zulu. If you spoke to me in Tswana, I replied to you in Tswana. Maybe I didn't look like you, but if I spoke like you, I was you."
+        },
+        {   
+          "id": 4, 
+          "name": "Sarah Smith",
+          "img": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+          "profession": "Manager",
+          "description":"Random text I believe in movement. I believe in that lighthearted balloon, the world. I believe in midnight and the hour of noon. But what else do I believe in? Sometimes everything. Sometimes nothing. It fluctuates like light flitting over a pond."
+        },
+        {   
+          "id": 5, 
+          "name": "Sam Winscot",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Trip_Adler.jpg",
+          "profession": "Customer adviser",
+          "description":"Random text Now, in my sixties, and believing that I looked at least ten years younger, I had my mantra: whenever I coughed suddenly, coarsely, I told anyone nearby, Sorry. Allergies"
+        },
+        {   
+          "id": 6, 
+          "name":"Michael Bronson",
+          "img": "https://vistapointe.net/images/man-6.jpg",
+          "profession": "Customer adviser",
+          "description":"Random text I've always enjoyed the written word, even if it wasn't exactly 'cool' to spend the entirety of your Saturday afternoons curled up in a tiny public library. Digital catalogs, accessed through the public computers with their green text on black background displays, were a relatively new addition. Sure beat thumbing through those card files, that's for sure. Though, I do miss the odd musky smell of faded index cards sometimes. It's weird."
+        }
+      ]
+}
